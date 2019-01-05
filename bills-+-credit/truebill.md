@@ -22,9 +22,10 @@ Learn more about [Truebill](https://www.truebill.com/)
 
 The Truebill app isn't a detailed budgeting or financial management app. Beyond the app's hands-on concierge service, which will help you lower and cancel your bills, this is more of a personal finance analysis tool that looks specifically at your recurring bill and subscription spending rather than your overall \(incl. variable\) spending.
 
-![Truebill App](images/truebill-app.png)
 
 ### How to get started:
+
+![Truebill App](images/truebill-app.png)
 
 We found it fairly easy to get started with Truebill. Here are the two main onboarding steps:
 
@@ -42,14 +43,17 @@ Truebill is great for anyone who has a lot of subscriptions and/or bills and wan
 | Rating | Price | Frequency of Updates |
 | :--- | :--- | :--- |
 | 4.7 / 5.0 ⭐ | Free, with in-app purchases | High |
-
+{% hint style="info" %}
 [Download](https://itunes.apple.com/us/app/truebill-budget-bill-tracker/id1130616675?mt=8)
+{% endhint %}
 {% endtab %}
 
 {% tab title="Google Play Store" %}
 | Rating | Price | Frequency of Updates |
 | :--- | :--- | :--- |
 | 4.1 / 5.0 ⭐ | Free, with in-app purchases | High |
+{% hint style="info" %}
 [Download](https://play.google.com/store/apps/details?id=com.truebill&hl=en_US)
+{% endhint %}
 {% endtab %}
 {% endtabs %}
