@@ -14,7 +14,7 @@
 
 ## Bills + Credit
 
-* [Truebill](bills-+-credit/untitled.md)
+* [Truebill](bills-+-credit/truebill.md)
 
 ## Investing
 
@@ -23,4 +23,3 @@
 ## Comparisons
 
 * [Untitled](comparisons/untitled.md)
-
