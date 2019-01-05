@@ -4,7 +4,7 @@ description: 'Find, track, and cancel your paid subscriptions'
 
 # Truebill
 
-![Truebill Website](../.gitbook/assets/truebill-web.png)
+![Truebill Website](images/truebill-web.png)
 
 The Truebill app helps you find all of your subscriptions and cancel unwanted services. Use it if you want to know exactly how much you're being charged every month for recurring bills like gym memberships, cell phones, entertainment streaming services, and utilities. Those $5 and $10 monthly subscriptions add up, and you shouldn't pay for services you aren't using regularly. Truebill helps you quickly cancel memberships you no longer want. It also gives you the information you need to lower inflated \(but necessary\) bills, like your cell phone and cable services.
 
@@ -22,7 +22,7 @@ Learn more about [Truebill](https://www.truebill.com/)
 
 The Truebill app isn't a detailed budgeting or financial management app. Beyond the app's hands-on concierge service, which will help you lower and cancel your bills, this is more of a personal finance analysis tool that looks specifically at your recurring bill and subscription spending rather than your overall \(incl. variable\) spending.
 
-![Truebill App](../.gitbook/assets/truebill-app.png)
+![Truebill App](images/truebill-app.png)
 
 ### How to get started:
 
@@ -43,13 +43,13 @@ Truebill is great for anyone who has a lot of subscriptions and/or bills and wan
 | :--- | :--- | :--- |
 | 4.7 / 5.0 ⭐ | Free, with in-app purchases | High |
 
-[Link](https://itunes.apple.com/us/app/truebill-budget-bill-tracker/id1130616675?mt=8)
+[Download](https://itunes.apple.com/us/app/truebill-budget-bill-tracker/id1130616675?mt=8)
 {% endtab %}
 
 {% tab title="Google Play Store" %}
 | Rating | Price | Frequency of Updates |
 | :--- | :--- | :--- |
 | 4.1 / 5.0 ⭐ | Free, with in-app purchases | High |
-[Link](https://play.google.com/store/apps/details?id=com.truebill&hl=en_US)
+[Download](https://play.google.com/store/apps/details?id=com.truebill&hl=en_US)
 {% endtab %}
 {% endtabs %}
