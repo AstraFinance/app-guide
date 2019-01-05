@@ -1,6 +1,8 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [What is the Fintech App Guide?](README.md)
+* [Welcome](welcome.md)
+* [Sample Page](sample-page.md)
 
 ## Banking
 
