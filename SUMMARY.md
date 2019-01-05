@@ -2,7 +2,6 @@
 
 * [What is the Fintech App Guide?](README.md)
 * [Welcome](welcome.md)
-* [Sample Page](sample-page.md)
 
 ## Banking
 
@@ -39,3 +38,4 @@
 ## Comparisons
 
 * [Untitled](comparisons/untitled.md)
+* [Sample Page](sample-page.md)
