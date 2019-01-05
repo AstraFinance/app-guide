@@ -1,7 +1,3 @@
----
-description: A message from the Authors
----
-
 # Welcome
 
 Even in 2019, banking can be pretty terrible. It's hard to get excited about the management of your finances, which can often be tedious, so maybe you put it off until the last Sunday of the month where you can sit down and sort everything out. Even worse, perhaps the reality of your finances are so scary that you avoid them entirely, choosing the "ignorance is bliss" approach to financial planning. Regardless of your current feelings towards the process of financial management, over the last few years, hundreds of companies have launched, with the goal of improving aspects of economic health – picking up the mantle from where the large banks and investment institutions left off.

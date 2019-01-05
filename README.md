@@ -1,7 +1,3 @@
----
-description: A guide to the best personal finance apps for consumers.
----
-
 # What is the Fintech App Guide?
 
 _insert image_
