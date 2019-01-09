@@ -38,4 +38,5 @@
 ## Comparisons
 
 * [Untitled](comparisons/untitled.md)
-* [Sample Page](sample-page.md)
+* [Sample Page](comparisons/sample-page.md)
+
