@@ -11,13 +11,13 @@
 * [Digit](banking/digit.md)
 * [Astra](banking/astra.md)
 
-## Budgeting
+## Investing
 
-* [Mint](budgeting/mint.md)
-* [You Need a Budget](budgeting/ynab.md)
-* [HoneyFi](budgeting/honeyfi.md)
-* [PocketGuard](budgeting/pocketguard.md)
-* [Spendee](budgeting/spendee.md)
+* [Robinhood](investing/robinhood.md)
+* [Acorns](investing/acorns.md)
+* [Stash](investing/stash.md)
+* [Betterment](investing/betterment.md)
+* [Wealthfront](investing/wealthfront.md)
 
 ## Bills + Credit
 
@@ -27,16 +27,15 @@
 * [Cushion](bills-+-credit/cushion.md)
 * [Trim](bills-+-credit/trim.md)
 
-## Investing
+## Budgeting
 
-* [Robinhood](investing/robinhood.md)
-* [Acorns](investing/acorns.md)
-* [Stash](investing/stash.md)
-* [Betterment](investing/betterment.md)
-* [Wealthfront](investing/wealthfront.md)
+* [Mint](budgeting/mint.md)
+* [You Need a Budget](budgeting/ynab.md)
+* [HoneyFi](budgeting/honeyfi.md)
+* [PocketGuard](budgeting/pocketguard.md)
+* [Spendee](budgeting/spendee.md)
 
 ## Comparisons
 
 * [Untitled](comparisons/untitled.md)
 * [Sample Page](comparisons/sample-page.md)
-
