@@ -4,7 +4,7 @@ description: 'Save money and pay off debt, all without thinking about it.'
 
 # Digit
 
-![Digit Website](images/digit-web.png)
+![Digit Website](../.gitbook/assets/digit-web.png)
 
 Description
 
@@ -22,7 +22,6 @@ Pro Tip:
 
 Text
 
-
 ## What does it do?
 
 * Item
@@ -35,7 +34,7 @@ Text
 
 ## How to get started:
 
-![Digit App](images/digit-app.png)
+![Digit App](../.gitbook/assets/digit-app.png)
 
 1. Item
 2. Item
@@ -43,3 +42,4 @@ Text
 ## App Ratings and Details:
 
 Text
+

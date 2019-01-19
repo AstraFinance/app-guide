@@ -1,10 +1,10 @@
 ---
-description: 'Banking designed with your goals in mind.'
+description: Banking designed with your goals in mind.
 ---
 
 # Qapital
 
-![Qapital Website](images/qapital-web.png)
+![Qapital Website](../.gitbook/assets/qapital-web.png)
 
 Description
 
@@ -22,7 +22,6 @@ Pro Tip:
 
 Text
 
-
 ## What does it do?
 
 * Item
@@ -35,7 +34,7 @@ Text
 
 ## How to get started:
 
-![Qapital App](images/qapital-app.png)
+![Qapital App](../.gitbook/assets/qapital-app.png)
 
 1. Item
 2. Item
@@ -43,3 +42,4 @@ Text
 ## App Ratings and Details:
 
 Text
+

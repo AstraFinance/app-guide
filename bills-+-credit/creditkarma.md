@@ -1,10 +1,10 @@
 ---
-description: 'Free Credit Score & Free Credit Reports With Monitoring'
+description: Free Credit Score & Free Credit Reports With Monitoring
 ---
 
 # Credit Karma
 
-![Credit Karma Website](images/creditkarma-web.png)
+![Credit Karma Website](../.gitbook/assets/creditkarma-web.png)
 
 It's pretty ridiculous that you can only get one free credit report each year, especially since your scores can change month-to-month.
 
@@ -39,7 +39,7 @@ Unlike many of the other apps listed in this guide, Credit Karma is not a budget
 
 ## How to get started:
 
-![Credit Karma App](images/creditkarma-app.png)
+![Credit Karma App](../.gitbook/assets/creditkarma-app.png)
 
 1. It's pretty easy to get started with Credit Karma. It takes about 5-10 minutes to input your personal information, which will then give you access to your credit scores, accounts, and available credit.
 2. Once you sync your accounts, you're free to browse through Credit Karma's suite of tools, including: a credit score simulator, auto insurance rate checks, financial calculators, and tax reform impact.
@@ -48,3 +48,4 @@ Unlike many of the other apps listed in this guide, Credit Karma is not a budget
 ## App Ratings and Details:
 
 Text
+

@@ -4,7 +4,7 @@ description: 'The Smart, Modern Way to Invest'
 
 # Betterment
 
-![Betterment Website](images/betterment-web.png)
+![Betterment Website](../.gitbook/assets/betterment-web.png)
 
 Description
 
@@ -22,7 +22,6 @@ Pro Tip:
 
 Text
 
-
 ## What does it do?
 
 * Item
@@ -35,7 +34,7 @@ Text
 
 ## How to get started:
 
-![Betterment App](images/betterment-app.png)
+![Betterment App](https://github.com/AstraFinance/app-guide/tree/7bbcbff1655b3dbd08ad73b7ab4988f9694dd843/investing/images/betterment-app.png)
 
 1. Item
 2. Item
@@ -43,3 +42,4 @@ Text
 ## App Ratings and Details:
 
 Text
+

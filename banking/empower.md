@@ -1,10 +1,10 @@
 ---
-description: 'The mobile bank with unmatched rewards'
+description: The mobile bank with unmatched rewards
 ---
 
 # Empower
 
-![Empower Website](images/empower-web.png)
+![Empower Website](../.gitbook/assets/empower-web.png)
 
 Description
 
@@ -22,7 +22,6 @@ Pro Tip:
 
 Text
 
-
 ## What does it do?
 
 * Item
@@ -35,7 +34,7 @@ Text
 
 ## How to get started:
 
-![Empower App](images/empower-app.png)
+![Empower App](../.gitbook/assets/empower-app.png)
 
 1. Item
 2. Item
@@ -43,3 +42,4 @@ Text
 ## App Ratings and Details:
 
 Text
+

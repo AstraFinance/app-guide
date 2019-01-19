@@ -4,7 +4,7 @@ description: 'Invest, Save, and Learn with the Stash Investment App'
 
 # Stash
 
-![Stash Website](images/stash-web.png)
+![Stash Website](../.gitbook/assets/stash-web.png)
 
 Description
 
@@ -22,7 +22,6 @@ Pro Tip:
 
 Text
 
-
 ## What does it do?
 
 * Item
@@ -35,7 +34,7 @@ Text
 
 ## How to get started:
 
-![Stash App](images/stash-app.png)
+![Stash App](https://github.com/AstraFinance/app-guide/tree/7bbcbff1655b3dbd08ad73b7ab4988f9694dd843/investing/images/stash-app.png)
 
 1. Item
 2. Item
@@ -43,3 +42,4 @@ Text
 ## App Ratings and Details:
 
 Text
+

@@ -1,10 +1,10 @@
 ---
-description: 'Get more from your money'
+description: Get more from your money
 ---
 
 # Nerd Wallet
 
-![Nerd Wallet Website](images/nerdwallet-web.png)
+![Nerd Wallet Website](../.gitbook/assets/nerdwallet-web.png)
 
 Description
 
@@ -22,7 +22,6 @@ Pro Tip:
 
 Text
 
-
 ## What does it do?
 
 * Item
@@ -35,7 +34,7 @@ Text
 
 ## How to get started:
 
-![Nerd Wallet App](images/nerdwallet-app.png)
+![Nerd Wallet App](../.gitbook/assets/nerdwallet-app.png)
 
 1. Item
 2. Item
@@ -43,3 +42,4 @@ Text
 ## App Ratings and Details:
 
 Text
+

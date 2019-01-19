@@ -1,20 +1,19 @@
 ---
-description: 'Personal budgeting software'
+description: Personal budgeting software
 ---
 
 # You Need a Budget
 
-![YNAB Website](images/ynab-web.png)
+![YNAB Website](../.gitbook/assets/ynab-web.png)
 
-The You Need a Budget ([**YNAB**](https://www.youneedabudget.com/)) app is built around four rules:
+The You Need a Budget \([**YNAB**](https://www.youneedabudget.com/)\) app is built around four rules:
 
-1.	Give every dollar a job
-2.	Embrace your true expenses
-3.	Roll with the punches
-4.	Age your money
+1. Give every dollar a job
+2. Embrace your true expenses
+3. Roll with the punches
+4. Age your money
 
 In essence, this means creating a budget that helps you spend money you've earned at least a month ago so you don't have to live on the financial edge. No more timing your bills with paychecks, wondering how much money is in your account, or running out of cash before the next payday.
-
 
 ## TLDR
 
@@ -43,13 +42,13 @@ This is a fairly manual app when it comes to tracking expenses and balancing you
 
 ## How to get started:
 
-![YNAB App](images/ynab-app.png)
+![YNAB App](https://github.com/AstraFinance/app-guide/tree/2437d77de2b2a444ee4e5f9aa29e4ad062d8541a/budgeting/images/ynab-app.png)
 
 1. The best way to get started with YNAB, like many of the other apps listed in this guide, is to sync all of your bank accounts so you know exactly how much money you have to work with each month.
-2. Then, set up your categories (or work with the automatic ones if you want to get started quickly) and set budgets for each one. It'll probably take you a while to figure out what the right amount is for each bucket, but YNAB makes it easy to iterate as you go.
+2. Then, set up your categories \(or work with the automatic ones if you want to get started quickly\) and set budgets for each one. It'll probably take you a while to figure out what the right amount is for each bucket, but YNAB makes it easy to iterate as you go.
 3. Finally, input your debts so you can use YNAB to put any excess cash each month toward repayment.
-
 
 ## App Ratings and Details:
 
 Text
+

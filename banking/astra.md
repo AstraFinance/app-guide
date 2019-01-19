@@ -1,10 +1,10 @@
 ---
-description: 'Mission control for your money'
+description: Mission control for your money
 ---
 
 # Astra
 
-![Astra Website](images/astra-web.png)
+![Astra Website](../.gitbook/assets/astra-web.png)
 
 Description
 
@@ -22,7 +22,6 @@ Pro Tip:
 
 Text
 
-
 ## What does it do?
 
 * Item
@@ -35,7 +34,7 @@ Text
 
 ## How to get started:
 
-![Astra App](images/astra-app.png)
+![Astra App](../.gitbook/assets/astra-app.png)
 
 1. Item
 2. Item
@@ -43,3 +42,4 @@ Text
 ## App Ratings and Details:
 
 Text
+

@@ -1,10 +1,10 @@
 ---
-description: 'Money Manager & Budget Planner'
+description: Money Manager & Budget Planner
 ---
 
 # Spendee
 
-![Spendee Website](images/spendee-web.png)
+![Spendee Website](../.gitbook/assets/spendee-web.png)
 
 Description
 
@@ -22,7 +22,6 @@ Pro Tip:
 
 Text
 
-
 ## What does it do?
 
 * Item
@@ -35,7 +34,7 @@ Text
 
 ## How to get started:
 
-![Spendee App](images/spendee-app.png)
+![Spendee App](https://github.com/AstraFinance/app-guide/tree/e5bd538172738d7754b239e7b09a85db95679e7c/budgeting/images/spendee-app.png)
 
 1. Item
 2. Item
@@ -43,3 +42,4 @@ Text
 ## App Ratings and Details:
 
 Text
+

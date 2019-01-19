@@ -1,10 +1,10 @@
 ---
-description: 'Budget Manager | See Your Expenses in One Place‎'
+description: Budget Manager | See Your Expenses in One Place‎
 ---
 
 # Clarity
 
-![Clarity Website](images/clarity-web.png)
+![Clarity Website](../.gitbook/assets/clarity-web.png)
 
 Description
 
@@ -22,7 +22,6 @@ Pro Tip:
 
 Text
 
-
 ## What does it do?
 
 * Item
@@ -35,7 +34,7 @@ Text
 
 ## How to get started:
 
-![Clarity App](images/clarity-app.png)
+![Clarity App](../.gitbook/assets/clarity-app.png)
 
 1. Item
 2. Item
@@ -43,3 +42,4 @@ Text
 ## App Ratings and Details:
 
 Text
+

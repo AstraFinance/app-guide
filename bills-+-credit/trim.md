@@ -1,10 +1,10 @@
 ---
-description: 'An Assistant That Saves You Money'
+description: An Assistant That Saves You Money
 ---
 
 # Trim
 
-![Trim Website](images/trim-web.png)
+![Trim Website](../.gitbook/assets/trim-web.png)
 
 Description
 
@@ -22,7 +22,6 @@ Pro Tip:
 
 Text
 
-
 ## What does it do?
 
 * Item
@@ -35,7 +34,7 @@ Text
 
 ## How to get started:
 
-![Trim App](images/trim-app.png)
+![Trim App](../.gitbook/assets/trim-app.png)
 
 1. Item
 2. Item
@@ -43,3 +42,4 @@ Text
 ## App Ratings and Details:
 
 Text
+

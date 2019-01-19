@@ -4,7 +4,7 @@ description: 'Find Subscription, Track Bills, and Cancel Recurring Charges'
 
 # Cushion
 
-![Cushion Website](images/cushion-web.png)
+![Cushion Website](../.gitbook/assets/cushion-web.png)
 
 Description
 
@@ -22,7 +22,6 @@ Pro Tip:
 
 Text
 
-
 ## What does it do?
 
 * Item
@@ -35,7 +34,7 @@ Text
 
 ## How to get started:
 
-![Cushion App](images/cushion-app.png)
+![Cushion App](../.gitbook/assets/cushion-app.png)
 
 1. Item
 2. Item
@@ -43,3 +42,4 @@ Text
 ## App Ratings and Details:
 
 Text
+
