@@ -9,7 +9,7 @@
 * [Empower](banking/empower.md)
 * [Qapital](banking/qapital.md)
 * [Digit](banking/digit.md)
-* [Astra](banking/astra.md)
+* [Square Cash](banking/square-cash.md)
 
 ## Investing
 
@@ -39,4 +39,3 @@
 
 * [Untitled](comparisons/untitled.md)
 * [Sample Page](comparisons/sample-page.md)
-
