@@ -22,7 +22,7 @@
 ## Bills + Credit
 
 * [Credit Karma](bills-+-credit/creditkarma.md)
-* [Nerd Wallet](bills-+-credit/nerdwallet.md)
+* [NerdWallet](bills-+-credit/nerdwallet.md)
 * [Truebill](bills-+-credit/truebill.md)
 * [Cushion](bills-+-credit/cushion.md)
 * [Trim](bills-+-credit/trim.md)
@@ -39,4 +39,3 @@
 
 * [Untitled](comparisons/untitled.md)
 * [Sample Page](comparisons/sample-page.md)
-

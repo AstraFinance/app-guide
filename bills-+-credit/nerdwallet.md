@@ -20,7 +20,7 @@ description: Make all the right money moves
 
 ## Is this app for me?
 
-If you want a swiss army knife for your finances, NerdWallet is for you. The app has tracking for your Credit Score, Spending, and Home Value. It's great for seeing the big picture and getting a wide variety of "tips from the Nerds." 
+If you want a swiss army knife for your finances, NerdWallet is for you. The app has tracking for your Credit Score, Spending, and Home Value. It's great for seeing the big picture and getting a wide variety of "tips from the Nerds."
 
 ## What does it do?
 
@@ -45,5 +45,34 @@ Whether you decide to sign up through the web or mobile app, onboarding with Ner
 
 ## App Ratings and Details
 
-Text
+NerdWallet is available on web as well as both iOS and Android. both of which have high ratings and frequent updates.
 
+{% tabs %}
+{% tab title="Apple App Store" %}
+The iOS version is frequently updated and offers a well designed user experience, including all the features described above.
+
+| Rating | Price | Frequency of Updates |
+| :--- | :--- | :--- |
+| 4.8 / 5.0 ⭐ | Free | Regular |
+
+{% hint style="info" %}
+[Download](https://itunes.apple.com/us/app/nerdwallet-credit-score-cash/id1174471607?mt=8)
+{% endhint %}
+{% endtab %}
+
+{% tab title="Google Play Store" %}
+The Android version is frequently updated and offers a well designed user experience, including all the features described above.
+
+| Rating | Price | Frequency of Updates |
+| :--- | :--- | :--- |
+| 4.6 / 5.0 ⭐ | Free | Regular |
+
+{% hint style="info" %}
+[Download](https://play.google.com/store/apps/details?id=com.mobilecreditcards&hl=en_US)
+{% endhint %}
+{% endtab %}
+
+{% tab title="Web App" %}
+The website app offers a similar if a little more basic version of what's available in the mobile apps. Note that you don't have to be logged in to take advantage of their articles and Best Of guides!
+{% endtab %}
+{% endtabs %}
