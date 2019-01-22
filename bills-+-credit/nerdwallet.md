@@ -2,11 +2,11 @@
 description: Make all the right money moves
 ---
 
-# Nerd Wallet
+# NerdWallet
 
 ![NerdWallet Website](../.gitbook/assets/nerdwallet-web.png)
 
-[NerdWallet](https://www.nerdwallet.com) has long been the go-to destination for advice, reviews, and recommendations for financial products and services from credit cards to mortgages. Their website continues to be packed with relevant and valuable content – check out their "Best Of" or "Comparison" sections for help on deciding which account to sign up for. As a NerdWallet member, you can also take advantage of their financial tools to manage your credit score, track spending, or find ways to save through their web and mobile apps.  
+[NerdWallet](https://www.nerdwallet.com) has long been the go-to destination for advice, reviews, and recommendations for financial products and services from credit cards to mortgages. Their website continues to be packed with relevant and valuable content – check out their "Best Of" or "Comparison" sections for help on deciding which account to sign up for. As a NerdWallet member, you can also take advantage of their financial tools to manage your credit score, track spending, or find ways to save through their web and mobile apps.
 
 ## In Brief
 
@@ -76,3 +76,4 @@ The Android version is frequently updated and offers a well designed user experi
 The website app offers a similar if a little more basic version of what's available in the mobile apps. Note that you don't have to be logged in to take advantage of their articles and Best Of guides!
 {% endtab %}
 {% endtabs %}
+

@@ -8,7 +8,7 @@ description: 'Find, track, and cancel your paid subscriptions'
 
 The [**Truebill**](https://www.truebill.com/) app helps you find all of your subscriptions and cancel unwanted services. Use it if you want to know exactly how much you're being charged every month for recurring bills like gym memberships, cell phones, entertainment streaming services, and utilities. Those $5 and $10 monthly subscriptions add up, and you shouldn't pay for services you aren't using regularly. Truebill helps you track recurring expenses across time and quickly cancel memberships you no longer want. It also gives you the information you need to lower inflated \(but necessary\) bills, like your cell phone and cable services.
 
-## In Brief:
+## In Brief
 
 * Stay on top of your bills and subscriptions.
 * Standard graphs and reports for your finances.
@@ -39,7 +39,7 @@ Truebill allows you to choose your own price \($3 - $12 / month\) for the follow
 * Premium Chat
 * On demand account syncing
 
-## What it lacks:
+## What it lacks
 
 Out of the box, the Truebill app isn't a detailed budgeting or financial management app. Beyond the app's hands-on concierge service, which will help you lower and cancel your bills, this is more of a personal finance analysis tool that looks specifically at your recurring bill and subscription spending rather than your overall \(including variable\) spending.
 
@@ -52,7 +52,7 @@ We found it fairly easy to get started with Truebill. Here are the two main onbo
 1. Connect any \(or all\) of your banking and credit card accounts. You can connect just one to get started, but you don't really see the true picture of your spending and recurring subscriptions unless you connect all of them.
 2. If you want to have a Truebill representative lower bills on your behalf \(and you're okay with them charging you 40% of the negotiated savings\), just upload the bill you want to lower and send it to the team. Easy as that.
 
-## App Ratings and Details:
+## App Ratings and Details
 
 Truebill is available on both iOS and Android, both of which have high ratings and frequent updates.
 
