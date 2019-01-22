@@ -4,7 +4,7 @@ description: Send Money Instantly‎
 
 # Square Cash
 
-![Cash App Website](images/square-cash-web.png)
+![Cash App Website](../.gitbook/assets/square-cash-web.png)
 
 Description
 
@@ -34,7 +34,7 @@ Text
 
 ## How to get started:
 
-![Cash App](images/square-cash-app.png)
+![Cash App](../.gitbook/assets/square-cash-app.png)
 
 1. Item
 2. Item
@@ -42,3 +42,4 @@ Text
 ## App Ratings and Details:
 
 Text
+
