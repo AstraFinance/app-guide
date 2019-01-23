@@ -43,7 +43,7 @@ Truebill allows you to choose your own price \($3 - $12 / month\) for the follow
 
 Out of the box, the Truebill app isn't a detailed budgeting or financial management app. Beyond the app's hands-on concierge service, which will help you lower and cancel your bills, this is more of a personal finance analysis tool that looks specifically at your recurring bill and subscription spending rather than your overall \(including variable\) spending.
 
-## How to get started:
+## How to get started
 
 ![Truebill App](../.gitbook/assets/truebill-app.png)
 
