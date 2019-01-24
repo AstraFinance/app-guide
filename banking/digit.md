@@ -6,16 +6,16 @@ description: 'Save money and pay off debt, all without thinking about it.'
 
 ![Digit Website](../.gitbook/assets/digit-web.png)
 
-Description
+[Digit](https://digit.co/) description
 
-## TLDR
+## In Brief
 
 * Item
 * Item
 * Item
 
 {% hint style="success" %}
-Pro Tip:
+**Pro Tip:** description
 {% endhint %}
 
 ## Is this app for me?
@@ -28,18 +28,18 @@ Text
 * Item
 * Item
 
-## What it lacks:
+## What it lacks
 
 Text
 
-## How to get started:
+## How to get started
 
 ![Digit App](../.gitbook/assets/digit-app.png)
 
 1. Item
 2. Item
 
-## App Ratings and Details:
+## App Ratings and Details
 
 Text
 
