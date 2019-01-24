@@ -1,5 +1,5 @@
 ---
-description: Mission control for your money
+description: Personal finance simplified
 ---
 
 # PocketGuard
@@ -10,11 +10,12 @@ description: Mission control for your money
 
 Your budget is also built automatically based on your earning and spending patterns \(which can be useful or a pain, depending on how hands-on you want to be\). Finally, the app has built-in "Find Savings" options. While this section can be useful, proceed with caution and do your research before choosing any of the investment, refinancing, insurance, and credit card suggestions.
 
-## TLDR
+## In Brief
 
-* Item
-* Item
-* Item
+* Connect all your accounts in one place and track net worth.
+* Use "pockets" to know how much you have spent and can spend on certain categories.
+* Get a budget built for you automatically based on your spending and earning patterns.
+* Browse suggestions for lowering your recurring bills. 
 
 {% hint style="success" %}
 Pro Tip: One of the best PocketGuard features is the "In My Pocket" function, which shows you how much you can safely spend every day, week, and month once your bills and savings have been accounted for.
@@ -29,6 +30,14 @@ PocketGuard is a great option for those who want an automated budgeting tool. Th
 * Get an automatic glimpse at how your spending is tracking month over month.
 * Add in your credit card, bank, loan, investment, cash, and property balances to get a true picture of your current and projected net worth. The app syncs with 18,000 banking institutions, so it's fairly comprehensive.
 * Use the "Find Savings" function to lower your bills, start investing, get insight on your credit score, refinance high-interest debt, and more.
+
+#### Interested in the Premium version?
+
+For a $3.99 monthly subscription (or $34.99 annually), PocketGuard Plus lets you track your money with even finer detail:
+
+* Track the cash you spend or receive
+* Plan for bills you pay in cash
+* Know how much cash is in your pocket
 
 ## What it lacks:
 
