@@ -6,16 +6,16 @@ description: 'Invest, Earn, Grow, Spend, Later'
 
 ![Acorns Website](../.gitbook/assets/acorns-web.png)
 
-Description
+[Acorns](https://www.acorns.com/) Description
 
-## TLDR
+## In Brief
 
 * Item
 * Item
 * Item
 
 {% hint style="success" %}
-Pro Tip:
+**Pro Tip:** description
 {% endhint %}
 
 ## Is this app for me?
@@ -28,18 +28,22 @@ Text
 * Item
 * Item
 
-## What it lacks:
+#### How much does it cost?
+
+description
+
+## What it lacks
 
 Text
 
-## How to get started:
+## How to get started
 
 ![Acorns App](../.gitbook/assets/acorns-app.png)
 
 1. Item
 2. Item
 
-## App Ratings and Details:
+## App Ratings and Details
 
 Text
 
