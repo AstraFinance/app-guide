@@ -1,21 +1,21 @@
 ---
-description: Mission control for your money
+description: Free online money management
 ---
 
 # Mint
 
 ![Mint Website](../.gitbook/assets/mint-web.png)
 
-Description
+[Mint](https://www.mint.com/) Description
 
-## TLDR
+## In Brief
 
 * Item
 * Item
 * Item
 
 {% hint style="success" %}
-Pro Tip:
+**Pro Tip:** description 
 {% endhint %}
 
 ## Is this app for me?
@@ -28,18 +28,18 @@ Text
 * Item
 * Item
 
-## What it lacks:
+## What it lacks
 
 Text
 
-## How to get started:
+## How to get started
 
 ![Mint App](../.gitbook/assets/mint-app.png)
 
 1. Item
 2. Item
 
-## App Ratings and Details:
+## App Ratings and Details
 
 Text
 
