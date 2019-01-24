@@ -65,3 +65,4 @@ The iOS version is frequently updated and offers a well designed user experience
 [Get Started](https://www.facebook.com/CushionAI)
 {% endhint %}
 {% endtab %}
+{% endtabs %}

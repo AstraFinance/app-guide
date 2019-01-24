@@ -45,7 +45,7 @@ Whether you decide to sign up through the web or mobile app, onboarding with Ner
 
 ## App Ratings and Details
 
-NerdWallet is available on web as well as both iOS and Android. both of which have high ratings and frequent updates.
+NerdWallet is available on the web as well as both iOS and Android. Both have high ratings and frequent updates.
 
 {% tabs %}
 {% tab title="Apple App Store" %}
@@ -74,6 +74,9 @@ The Android version is frequently updated and offers a well designed user experi
 
 {% tab title="Web App" %}
 The website app offers a similar if a little more basic version of what's available in the mobile apps. Note that you don't have to be logged in to take advantage of their articles and Best Of guides!
+
+{% hint style="info" %}
+[Get Started](https://www.nerdwallet.com)
+{% endhint %}
 {% endtab %}
 {% endtabs %}
-
