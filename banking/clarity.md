@@ -1,21 +1,21 @@
 ---
-description: Champion of your money
+description: Budget Manager | See Your Expenses in One Place‎
 ---
 
 # Clarity
 
 ![Clarity Website](../.gitbook/assets/clarity-web.png)
 
-[Clarity](https://claritymoney.com/) Description
+Description
 
-## In Brief
+## TLDR
 
 * Item
 * Item
 * Item
 
 {% hint style="success" %}
-**Pro Tip:** description
+Pro Tip:
 {% endhint %}
 
 ## Is this app for me?
@@ -28,18 +28,18 @@ Text
 * Item
 * Item
 
-## What it lacks
+## What it lacks:
 
 Text
 
-## How to get started
+## How to get started:
 
 ![Clarity App](../.gitbook/assets/clarity-app.png)
 
 1. Item
 2. Item
 
-## App Ratings and Details
+## App Ratings and Details:
 
 Text
 
