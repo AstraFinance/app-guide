@@ -47,5 +47,30 @@ Setup takes about five minutes with Honeyfi. Here are the steps in a nutshell:
 
 ## App Ratings and Details:
 
-Text
+Honeyfi is available on iOS and Android, both of which have good ratings and regular updates.
 
+{% tabs %}
+{% tab title="Apple App Store" %}
+The iOS version is maintained regularly and offers a wide variety of features as described above.
+
+| Rating | Price | Frequency of Updates |
+| :--- | :--- | :--- |
+| 4.3 / 5.0 ⭐ | Free | Regular |
+
+{% hint style="info" %}
+[Download](https://itunes.apple.com/us/app/honeyfi-couples-finances/id1156761013?mt=8)
+{% endhint %}
+{% endtab %}
+
+{% tab title="Google Play Store" %}
+The Android version is maintained regularly and offers a wide variety of features as described above.
+
+| Rating | Price | Frequency of Updates |
+| :--- | :--- | :--- |
+| 4.3 / 5.0 ⭐ | Free | Regular |
+
+{% hint style="info" %}
+[Download](https://play.google.com/store/apps/details?id=com.honeyfi.app)
+{% endhint %}
+{% endtab %}
+{% endtabs %}
