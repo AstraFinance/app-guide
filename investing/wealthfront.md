@@ -34,7 +34,7 @@ Text
 
 ## How to get started:
 
-![Wealthfront App](images/wealthfront-app.png)
+![Wealthfront App](../.gitbook/assets/wealthfront-app.png)
 
 1. Item
 2. Item
@@ -42,3 +42,4 @@ Text
 ## App Ratings and Details:
 
 Text
+

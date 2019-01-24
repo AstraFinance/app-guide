@@ -34,7 +34,7 @@ Text
 
 ## How to get started:
 
-![Stash App](images/stash-app.png)
+![Stash App](../.gitbook/assets/stash-app.png)
 
 1. Item
 2. Item
@@ -42,3 +42,4 @@ Text
 ## App Ratings and Details:
 
 Text
+

@@ -6,16 +6,16 @@ description: 'Invest for Free | Stocks, Options, ETFs‎'
 
 ![Robinhood Website](../.gitbook/assets/robinhood-web.png)
 
-Description
+[Robinhood](https://robinhood.com/) Description
 
-## TLDR
+## In Brief
 
 * Item
 * Item
 * Item
 
 {% hint style="success" %}
-Pro Tip:
+**Pro Tip:** description
 {% endhint %}
 
 ## Is this app for me?
@@ -28,13 +28,20 @@ Text
 * Item
 * Item
 
-## What it lacks:
+#### Interested in the premium version?
+
+Description
+
+* Item
+* Item
+
+## What it lacks
 
 Text
 
-## How to get started:
+## How to get started
 
-![Robinhood App](images/robinhood-app.png)
+![Robinhood App](../.gitbook/assets/robinhood-app.png)
 
 1. Item
 2. Item
@@ -42,3 +49,4 @@ Text
 ## App Ratings and Details:
 
 Text
+

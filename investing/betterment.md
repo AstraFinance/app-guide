@@ -34,7 +34,7 @@ Text
 
 ## How to get started:
 
-![Betterment App](images/betterment-app.png)
+![Betterment App](../.gitbook/assets/betterment-app.png)
 
 1. Item
 2. Item
@@ -42,3 +42,4 @@ Text
 ## App Ratings and Details:
 
 Text
+

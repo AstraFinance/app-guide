@@ -1,5 +1,5 @@
 ---
-description: Free credit score & free credit reports with monitoring
+description: Free Credit Score & Free Credit Reports With Monitoring
 ---
 
 # Credit Karma

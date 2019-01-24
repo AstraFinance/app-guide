@@ -34,7 +34,7 @@ Text
 
 ## How to get started:
 
-![Acorns App](images/acorns-app.png)
+![Acorns App](../.gitbook/assets/acorns-app.png)
 
 1. Item
 2. Item
@@ -42,3 +42,4 @@ Text
 ## App Ratings and Details:
 
 Text
+

@@ -1,5 +1,5 @@
 ---
-description: Free online money management
+description: Mission control for your money
 ---
 
 # Mint

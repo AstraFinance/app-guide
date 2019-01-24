@@ -1,5 +1,5 @@
 ---
-description: An assistant that saves you money
+description: An Assistant That Saves You Money
 ---
 
 # Trim
