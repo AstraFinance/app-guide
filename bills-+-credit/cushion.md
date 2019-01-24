@@ -6,7 +6,7 @@ description: Get back hundreds of wasted dollars
 
 ![Cushion Website](../.gitbook/assets/cushion-web.png)
 
-[Cushion](https://cushion.ai/) is fee fighting bot that lives in Facebook Messenger. It's dead simple to use and does all the hard work of negotiating fee reductions for your accounts behind the scenes. Interest charges on your credit card, monthly service fees, and even wire transfer fees are eligible for dispute. Cushion \(and the Fee Fighter mascot\) helps you authenticate your bank account, gives you a summary of what it's identified as possible fees for reduction, then gets to work with results shared within 24 hours. 
+[Cushion](https://cushion.ai/) is fee fighting bot that lives in Facebook Messenger. It's dead simple to use and does all the hard work of negotiating fee reductions for your accounts behind the scenes. Interest charges on your credit card, monthly service fees, and even wire transfer fees are eligible for dispute. Cushion \(and the Fee Fighter mascot\) helps you authenticate your bank account, gives you a summary of what it's identified as possible fees for reduction, then gets to work with results shared within 24 hours.
 
 ## In Brief
 
@@ -20,7 +20,7 @@ description: Get back hundreds of wasted dollars
 
 ## Is this app for me?
 
-If you get charged a monthly service fee for your checking account or pay interest on a credit card, you may be able to get some money back. It's particularly time effective if you have multiple accounts with a given institution. According to Cushion, Americans pay U.S. banks over [$200 Billion](https://cushion.ai/about.html) each year in fees and credit card interest, so there's a good chance there might be some extra funds for you! 
+If you get charged a monthly service fee for your checking account or pay interest on a credit card, you may be able to get some money back. It's particularly time effective if you have multiple accounts with a given institution. According to Cushion, Americans pay U.S. banks over [$200 Billion](https://cushion.ai/about.html) each year in fees and credit card interest, so there's a good chance there might be some extra funds for you!
 
 ## What does it do?
 
@@ -35,7 +35,7 @@ Cushion does all of the above work for you in exchange for 25% of the refunded a
 
 ## What it lacks
 
-Given that Cushion is a Messenger bot, you might guess that the experience is transactional. And it is, but it does deliver clear value for clawing back fees from your bank. If you are looking for an app-like experience, a more holistic picture, or more robust notifications, you might want to try a different app. 
+Given that Cushion is a Messenger bot, you might guess that the experience is transactional. And it is, but it does deliver clear value for clawing back fees from your bank. If you are looking for an app-like experience, a more holistic picture, or more robust notifications, you might want to try a different app.
 
 ## How to get started
 
@@ -51,5 +51,17 @@ Although we aren't the most frequent users of Facebook Messenger, getting our ac
 
 ## App Ratings and Details
 
-Text
+Cushion is only available through Facebook Messenger.
 
+{% tabs %}
+{% tab title="Facebook Messenger" %}
+The iOS version is frequently updated and offers a well designed user experience, including all the features described above.
+
+| Rating | Price | Responsiveness |
+| :--- | :--- | :--- |
+| 4.8 / 5.0 ⭐ | Free, but Cushion keeps 25% of refunds | Very responsive to messages |
+
+{% hint style="info" %}
+[Get Started](https://www.facebook.com/CushionAI)
+{% endhint %}
+{% endtab %}
