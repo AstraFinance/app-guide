@@ -1,21 +1,21 @@
 ---
-description: Mission control for your money
+description: Couples finances
 ---
 
 # HoneyFi
 
 ![HoneyFi Website](../.gitbook/assets/honeyfi-web.png)
 
-DeIf you're in a relationship, [**HoneyFi**](https://www.honeyfi.com/) is worth checking out. In our experience \(and we're willing to bet you can relate\), being in a relationship adds a layer of complexity to personal finances. There is more to balance \(literally\), more coordination required for bill repayment, and different \(usually bigger\) financial goals to work toward.
+If you're in a relationship, [**HoneyFi**](https://www.honeyfi.com/) is worth checking out. In our experience \(and we're willing to bet you can relate\), being in a relationship adds a layer of complexity to personal finances. There is more to balance \(literally\), more coordination required for bill repayment, and different \(usually bigger\) financial goals to work toward.
 
-## TLDR
+## In Brief
 
 * Item
 * Item
 * Item
 
 {% hint style="success" %}
-Pro Tip: We think HoneyFi is a solid option if you want to stay on top of your spending, manage bills, and accomplish goals alongside your partner. Don't worry: You can control what you share with your partner, so this can work for you- whether you've been together for 6 months or 60 years.
+**Pro Tip:** We think HoneyFi is a solid option if you want to stay on top of your spending, manage bills, and accomplish goals alongside your partner. Don't worry: You can control what you share with your partner, so this can work for you – whether you've been together for 6 months or 60 years.
 {% endhint %}
 
 ## Is this app for me?
