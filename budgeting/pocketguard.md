@@ -18,7 +18,7 @@ Your budget is also built automatically based on your earning and spending patte
 * Browse suggestions for lowering your recurring bills. 
 
 {% hint style="success" %}
-Pro Tip: One of the best PocketGuard features is the "In My Pocket" function, which shows you how much you can safely spend every day, week, and month once your bills and savings have been accounted for.
+**Pro Tip:** One of the best PocketGuard features is the "In My Pocket" function, which shows you how much you can safely spend every day, week, and month once your bills and savings have been accounted for.
 {% endhint %}
 
 ## Is this app for me?
@@ -33,17 +33,17 @@ PocketGuard is a great option for those who want an automated budgeting tool. Th
 
 #### Interested in the Premium version?
 
-For a $3.99 monthly subscription (or $34.99 annually), PocketGuard Plus lets you track your money with even finer detail:
+For a $3.99 monthly subscription \(or $34.99 annually\), PocketGuard Plus lets you track your money with even finer detail:
 
 * Track the cash you spend or receive
 * Plan for bills you pay in cash
 * Know how much cash is in your pocket
 
-## What it lacks:
+## What it lacks
 
 PocketGuard has the opposite challenge that more manual apps like Wally and HomeBudget have. Since all of your synced account information uploads automatically, you have to manually go into each transaction that you don't want to include in your budget overview.
 
-## How to get started:
+## How to get started
 
 ![PocketGuard App](../.gitbook/assets/pocketguard-app.png)
 
@@ -52,7 +52,7 @@ Here's how to get started with PocketGuard:
 1. Connect any \(or all\) of your banking and credit card accounts. It's best to connect all of them so you can get a true picture of your available income.
 2. The app automatically uploads your monthly income, bills, savings, and net worth. Check out the "Overview" and "Insights" tab to get a more in- depth look at how much you earn and spend each month, how your spending is trending month over month, and what your current net worth is.
 
-## App Ratings and Details:
+## App Ratings and Details
 
 PocketGuard is available on iOS and Android, both of which have regular updates. The iOS version is more highly rated.
 
@@ -81,3 +81,4 @@ The Android version is maintained regularly and offers a wide variety of feature
 {% endhint %}
 {% endtab %}
 {% endtabs %}
+
