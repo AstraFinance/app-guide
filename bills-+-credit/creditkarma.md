@@ -1,5 +1,5 @@
 ---
-description: Free Credit Score & Free Credit Reports With Monitoring
+description: Free credit score & free credit reports with monitoring
 ---
 
 # Credit Karma
@@ -8,18 +8,18 @@ description: Free Credit Score & Free Credit Reports With Monitoring
 
 It's pretty ridiculous that you can only get one free credit report each year, especially since your scores can change month-to-month.
 
-Luckily, Credit Karma makes it easy for you to check in on your TransUnion and Equifax scores as many times as you want. The app also enables you to quickly view all of your active banking and credit card accounts, see what's impacting your credit score, and discover your home buying power.
+Luckily, [Credit Karma](https://www.creditkarma.com/) makes it easy for you to check in on your TransUnion and Equifax scores as many times as you want. The app also enables you to quickly view all of your active banking and credit card accounts, see what's impacting your credit score, and discover your home buying power.
 
 This definitely isn't a budgeting tool, but it is a great supplement to use alongside another app that helps you manage your money.
 
-## TLDR
+## In Brief
 
 * Item
 * Item
 * Item
 
 {% hint style="success" %}
-Pro Tip:
+**Pro Tip:** description
 {% endhint %}
 
 ## Is this app for me?
@@ -33,11 +33,11 @@ If you want to gain deeper insight into the state of your credit score, as well 
 * Manage your car value and insurance costs so you're always getting the best rates.
 * Discover your home buying power by calculating your income, down payment, and credit score.
 
-## What it lacks:
+## What it lacks
 
 Unlike many of the other apps listed in this guide, Credit Karma is not a budgeting app. You can't use it to manage your money specifically. It is a supplemental tool to be used with other financial management apps, but centers more around financial literacy and awareness rather than personal money management.
 
-## How to get started:
+## How to get started
 
 ![Credit Karma App](../.gitbook/assets/creditkarma-app.png)
 
@@ -45,7 +45,7 @@ Unlike many of the other apps listed in this guide, Credit Karma is not a budget
 2. Once you sync your accounts, you're free to browse through Credit Karma's suite of tools, including: a credit score simulator, auto insurance rate checks, financial calculators, and tax reform impact.
 3. It's fairly easy to set up initially, as well as use after the initial account sync.
 
-## App Ratings and Details:
+## App Ratings and Details
 
 Text
 
