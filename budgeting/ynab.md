@@ -42,7 +42,7 @@ This is a fairly manual app when it comes to tracking expenses and balancing you
 
 ## How to get started:
 
-![YNAB App](https://github.com/AstraFinance/app-guide/tree/2437d77de2b2a444ee4e5f9aa29e4ad062d8541a/budgeting/images/ynab-app.png)
+![YNAB App](images/ynab-app.png)
 
 1. The best way to get started with YNAB, like many of the other apps listed in this guide, is to sync all of your bank accounts so you know exactly how much money you have to work with each month.
 2. Then, set up your categories \(or work with the automatic ones if you want to get started quickly\) and set budgets for each one. It'll probably take you a while to figure out what the right amount is for each bucket, but YNAB makes it easy to iterate as you go.
@@ -51,4 +51,3 @@ This is a fairly manual app when it comes to tracking expenses and balancing you
 ## App Ratings and Details:
 
 Text
-

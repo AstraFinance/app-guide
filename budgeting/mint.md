@@ -34,7 +34,7 @@ Text
 
 ## How to get started:
 
-![Mint App](https://github.com/AstraFinance/app-guide/tree/e5bd538172738d7754b239e7b09a85db95679e7c/budgeting/images/mint-app.png)
+![Mint App](images/mint-app.png)
 
 1. Item
 2. Item
@@ -42,4 +42,3 @@ Text
 ## App Ratings and Details:
 
 Text
-

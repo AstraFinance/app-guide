@@ -36,7 +36,7 @@ PocketGuard has the opposite challenge that more manual apps like Wally and Home
 
 ## How to get started:
 
-![PocketGuard App](https://github.com/AstraFinance/app-guide/tree/2437d77de2b2a444ee4e5f9aa29e4ad062d8541a/budgeting/images/pocketguard-app.png)
+![PocketGuard App](images/pocketguard-app.png)
 
 Here's how to get started with PocketGuard:
 
@@ -46,4 +46,3 @@ Here's how to get started with PocketGuard:
 ## App Ratings and Details:
 
 Text
-

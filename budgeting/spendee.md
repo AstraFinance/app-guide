@@ -34,7 +34,7 @@ Text
 
 ## How to get started:
 
-![Spendee App](https://github.com/AstraFinance/app-guide/tree/e5bd538172738d7754b239e7b09a85db95679e7c/budgeting/images/spendee-app.png)
+![Spendee App](images/spendee-app.png)
 
 1. Item
 2. Item
@@ -42,4 +42,3 @@ Text
 ## App Ratings and Details:
 
 Text
-

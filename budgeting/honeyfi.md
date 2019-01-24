@@ -34,7 +34,7 @@ If you aren't in a relationship- or don't want to share anything about your fina
 
 ## How to get started:
 
-![HoneyFi App](https://github.com/AstraFinance/app-guide/tree/2437d77de2b2a444ee4e5f9aa29e4ad062d8541a/budgeting/images/honeyfi-app.png)
+![HoneyFi App](images/honeyfi-app.png)
 
 Setup takes about five minutes with HoneyFi. Here are the steps in a nutshell:
 
@@ -46,4 +46,3 @@ Setup takes about five minutes with HoneyFi. Here are the steps in a nutshell:
 ## App Ratings and Details:
 
 Text
-
