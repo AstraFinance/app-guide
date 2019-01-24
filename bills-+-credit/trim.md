@@ -41,5 +41,18 @@ Text
 
 ## App Ratings and Details
 
-Text
+Cushion is only available through Facebook Messenger.
 
+{% tabs %}
+{% tab title="Messenger" %}
+Use Cushion's guided chatbot experience in Facebook Messenger.
+
+| Rating | Price | Responsiveness |
+| :--- | :--- | :--- |
+| 4.8 / 5.0 ⭐ | Free, but Cushion keeps 25% of refunds | Very responsive to messages |
+
+{% hint style="info" %}
+[Get Started](https://www.facebook.com/CushionAI)
+{% endhint %}
+{% endtab %}
+{% endtabs %}
