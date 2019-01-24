@@ -29,7 +29,7 @@ If you get charged a monthly service fee for your checking account or pay intere
 * Sends summary of refund and notifies you when refund is complete.
 * Sends updates periodically with proposed fees to dispute.
 
-### How much does it cost?
+#### How much does it cost?
 
 Cushion does all of the above work for you in exchange for 25% of the refunded amount – well worth it when you may have not even have known you had fees in the first place. Note that the ability to discover these fees is free.
 
