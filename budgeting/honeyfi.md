@@ -1,5 +1,5 @@
 ---
-description: Couples finances
+description: Couples finances & budgeting
 ---
 
 # Honeyfi
