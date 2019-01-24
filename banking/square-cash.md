@@ -1,21 +1,21 @@
 ---
-description: Send Money Instantly‎
+description: Send money instantly
 ---
 
 # Square Cash
 
 ![Cash App Website](../.gitbook/assets/square-cash-web.png)
 
-Description
+Square's [Cash App](https://cash.app/) Description
 
-## TLDR
+## In Brief
 
 * Item
 * Item
 * Item
 
 {% hint style="success" %}
-Pro Tip:
+**Pro Tip:** description
 {% endhint %}
 
 ## Is this app for me?
@@ -28,47 +28,18 @@ Text
 * Item
 * Item
 
-## What it lacks:
+## What it lacks
 
 Text
 
-## How to get started:
+## How to get started
 
 ![Cash App](../.gitbook/assets/square-cash-app.png)
 
 1. Item
 2. Item
 
-## App Ratings and Details:
+## App Ratings and Details
 
-Truebill is available on both iOS and Android, both of which have high ratings and frequent updates.
+Text
 
-{% tabs %}
-{% tab title="Apple App Store" %}
-The iOS version is frequently updated and offers a well designed user experience, including all the features described above.
-
-| Rating | Price | Frequency of Updates |
-| :--- | :--- | :--- |
-| 4.7 / 5.0 ⭐ | Free, with in-app purchases | High |
-
-{% hint style="info" %}
-[Download](https://itunes.apple.com/us/app/truebill-budget-bill-tracker/id1130616675?mt=8)
-{% endhint %}
-{% endtab %}
-
-{% tab title="Google Play Store" %}
-The Android version is frequently updated and offers a well designed user experience, including all the features described above.
-
-| Rating | Price | Frequency of Updates |
-| :--- | :--- | :--- |
-| 4.1 / 5.0 ⭐ | Free, with in-app purchases | High |
-
-{% hint style="info" %}
-[Download](https://play.google.com/store/apps/details?id=com.truebill&hl=en_US)
-{% endhint %}
-{% endtab %}
-
-{% tab title="Web App" %}
-The website version offers a very basic summary of your Subscriptions, Bills, and Utilities.
-{% endtab %}
-{% endtabs %}
