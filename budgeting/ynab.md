@@ -15,14 +15,14 @@ The You Need a Budget \([**YNAB**](https://www.youneedabudget.com/)\) app is bui
 
 In essence, this means creating a budget that helps you spend money you've earned at least a month ago so you don't have to live on the financial edge. No more timing your bills with paychecks, wondering how much money is in your account, or running out of cash before the next payday.
 
-## TLDR
+## In Brief
 
 * Item
 * Item
 * Item
 
 {% hint style="success" %}
-Pro Tip:
+**Pro Tip:** description
 {% endhint %}
 
 ## Is this app for me?
@@ -36,11 +36,15 @@ If, like most Americans, you live paycheck to paycheck but wish to change the ha
 * Build in goals for long-term or one-time expenses down the road so you can start saving now.
 * Track your category-based budget goals each month, and easily move your money around if you overspend or underspend in a particular area.
 
-## What it lacks:
+#### How much does it cost?
+
+description
+
+## What it lacks
 
 This is a fairly manual app when it comes to tracking expenses and balancing your budget. If you're not into daily or weekly budget management, this may not be the app for you. It's also important to understand the philosophy of giving every dollar a job. If that rule makes you too uncomfortable, you probably won't like YNAB.
 
-## How to get started:
+## How to get started
 
 ![YNAB App](../.gitbook/assets/ynab-app.png)
 
@@ -48,7 +52,7 @@ This is a fairly manual app when it comes to tracking expenses and balancing you
 2. Then, set up your categories \(or work with the automatic ones if you want to get started quickly\) and set budgets for each one. It'll probably take you a while to figure out what the right amount is for each bucket, but YNAB makes it easy to iterate as you go.
 3. Finally, input your debts so you can use YNAB to put any excess cash each month toward repayment.
 
-## App Ratings and Details:
+## App Ratings and Details
 
 Text
 
