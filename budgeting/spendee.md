@@ -34,7 +34,7 @@ Text
 
 ## How to get started:
 
-![Spendee App](images/spendee-app.png)
+![Spendee App](../.gitbook/assets/spendee-app.png)
 
 1. Item
 2. Item
@@ -42,3 +42,4 @@ Text
 ## App Ratings and Details:
 
 Text
+

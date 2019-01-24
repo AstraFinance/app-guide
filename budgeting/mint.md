@@ -34,7 +34,7 @@ Text
 
 ## How to get started:
 
-![Mint App](images/mint-app.png)
+![Mint App](../.gitbook/assets/mint-app.png)
 
 1. Item
 2. Item
@@ -42,3 +42,4 @@ Text
 ## App Ratings and Details:
 
 Text
+

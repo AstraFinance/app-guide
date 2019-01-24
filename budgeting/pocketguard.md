@@ -36,7 +36,7 @@ PocketGuard has the opposite challenge that more manual apps like Wally and Home
 
 ## How to get started:
 
-![PocketGuard App](images/pocketguard-app.png)
+![PocketGuard App](../.gitbook/assets/pocketguard-app.png)
 
 Here's how to get started with PocketGuard:
 
@@ -46,3 +46,4 @@ Here's how to get started with PocketGuard:
 ## App Ratings and Details:
 
 Text
+

@@ -31,7 +31,7 @@
 
 * [Mint](budgeting/mint.md)
 * [You Need a Budget](budgeting/ynab.md)
-* [HoneyFi](budgeting/honeyfi.md)
+* [Honeyfi](budgeting/honeyfi.md)
 * [PocketGuard](budgeting/pocketguard.md)
 * [Spendee](budgeting/spendee.md)
 

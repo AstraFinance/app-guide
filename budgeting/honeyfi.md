@@ -2,20 +2,22 @@
 description: Couples finances
 ---
 
-# HoneyFi
+# Honeyfi
 
-![HoneyFi Website](../.gitbook/assets/honeyfi-web.png)
+![Honeyfi Website](../.gitbook/assets/honeyfi-web.png)
 
-If you're in a relationship, [**HoneyFi**](https://www.honeyfi.com/) is worth checking out. In our experience \(and we're willing to bet you can relate\), being in a relationship adds a layer of complexity to personal finances. There is more to balance \(literally\), more coordination required for bill repayment, and different \(usually bigger\) financial goals to work toward.
+If you're in a relationship, [**Honeyfi**](https://www.honeyfi.com/) is worth checking out. In our experience \(and we're willing to bet you can relate\), being in a relationship adds a layer of complexity to your finances. There is more to balance \(literally\), more coordination required for bill repayment, and different \(usually bigger\) financial goals to work toward.
 
 ## In Brief
 
-* Item
-* Item
-* Item
+* Define which accounts should be shared or not with your partner, with a high degree of fidelity.
+* Track spending by person, by category, or by bill.
+* Save money together with Honeyfi Goals for big life goals.
+* Review transactions, add comments, or request funds from your partner by Venmo.
+* Take advantage of a partnership with BillShark to negotiate your bills \(\*you pay 40% of the savings as a fee\).
 
 {% hint style="success" %}
-**Pro Tip:** We think HoneyFi is a solid option if you want to stay on top of your spending, manage bills, and accomplish goals alongside your partner. Don't worry: You can control what you share with your partner, so this can work for you – whether you've been together for 6 months or 60 years.
+**Pro Tip:** We think Honeyfi is a solid option if you want to stay on top of your spending, manage bills, and accomplish goals alongside your partner. Don't worry: You can control what you share with your partner, so this can work for you – whether you've been together for 6 months or 60 years.
 {% endhint %}
 
 ## Is this app for me?
@@ -30,19 +32,20 @@ HoneyFi was specifically built for people in relationships. If that happens to b
 
 ## What it lacks:
 
-If you aren't in a relationship- or don't want to share anything about your finances if you ARE in one- this app isn't for you. Additionally, while there are some automated insights and suggestions built into the app, there is still a degree of manual setup work you need to do with your partner. And we think that makes sense- since every couple is different, every budget will be different.
+If you aren't in a relationship – or don't want to share anything about your finances if you ARE in one – this app isn't for you. Additionally, while there are some automated insights and suggestions built into the app, there is still a degree of manual setup work you need to do with your partner. And we think that makes sense – since every couple is unique, every budget will be different.
 
 ## How to get started:
 
-![HoneyFi App](images/honeyfi-app.png)
+![HoneyFi App](../.gitbook/assets/honeyfi-app.png)
 
-Setup takes about five minutes with HoneyFi. Here are the steps in a nutshell:
+Setup takes about five minutes with Honeyfi. Here are the steps in a nutshell:
 
-1. Create a user profile - basic stuff like your email address, name, and phone number.
-2. Enter your partner's information \(with permission first, of course\) - all you need to provide is a name and email address for your partner.
+1. Create a user profile – basic stuff like your email address, name, and phone number.
+2. Enter your partner's information \(with permission first, of course\) – all you need to provide is a name and email address for your partner.
 3. Link one or all of your accounts to the app.
 4. Decide what you want to share with your partner.
 
 ## App Ratings and Details:
 
 Text
+
