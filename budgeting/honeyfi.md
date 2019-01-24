@@ -4,6 +4,8 @@ description: Couples finances
 
 # Honeyfi
 
+
+
 ![Honeyfi Website](../.gitbook/assets/honeyfi-web.png)
 
 If you're in a relationship, [**Honeyfi**](https://www.honeyfi.com/) is worth checking out. In our experience \(and we're willing to bet you can relate\), being in a relationship adds a layer of complexity to your finances. There is more to balance \(literally\), more coordination required for bill repayment, and different \(usually bigger\) financial goals to work toward.
@@ -30,11 +32,11 @@ HoneyFi was specifically built for people in relationships. If that happens to b
 * Create specific budgets based on category so you know how much you have left to spend- both as a couple and individually.
 * Share as much or as little as you want. You can track individual and joint accounts together or separately. You can handpick specific transactions to share while keeping most of your spending and saving private.
 
-## What it lacks:
+## What it lacks
 
 If you aren't in a relationship – or don't want to share anything about your finances if you ARE in one – this app isn't for you. Additionally, while there are some automated insights and suggestions built into the app, there is still a degree of manual setup work you need to do with your partner. And we think that makes sense – since every couple is unique, every budget will be different.
 
-## How to get started:
+## How to get started
 
 ![HoneyFi App](../.gitbook/assets/honeyfi-app.png)
 
@@ -45,7 +47,7 @@ Setup takes about five minutes with Honeyfi. Here are the steps in a nutshell:
 3. Link one or all of your accounts to the app.
 4. Decide what you want to share with your partner.
 
-## App Ratings and Details:
+## App Ratings and Details
 
 Honeyfi is available on iOS and Android, both of which have good ratings and regular updates.
 
@@ -74,3 +76,4 @@ The Android version is maintained regularly and offers a wide variety of feature
 {% endhint %}
 {% endtab %}
 {% endtabs %}
+
