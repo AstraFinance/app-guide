@@ -10,13 +10,15 @@ It's pretty ridiculous that you can only get one free credit report each year, e
 
 Luckily, [Credit Karma](https://www.creditkarma.com/) makes it easy for you to check in on your TransUnion and Equifax scores as many times as you want. The app also enables you to quickly view all of your active banking and credit card accounts, see what's impacting your credit score, and discover your home buying power.
 
+More recently, Credit Karma has expanded their offerings to include tax filing capabilities (for free) as well as well as automotive insights which could help you lower your car payment or your annual car insurance fee.
+
 This definitely isn't a budgeting tool, but it is a great supplement to use alongside another app that helps you manage your money.
 
 ## In Brief
 
-* Item
-* Item
-* Item
+* Well-designed and simple tool to help you manage both of your main credit scores
+* Won't help with any other aspects of financial management (i.e. isn't a budget tool nor is it a payments service)
+* Will offer up suggested credit cards based on your credit history and spending trends.
 
 {% hint style="success" %}
 **Pro Tip:** description
@@ -47,5 +49,4 @@ Unlike many of the other apps listed in this guide, Credit Karma is not a budget
 
 ## App Ratings and Details
 
-Text
-
+The iOS rating for Credit Karma is 4.8 stars from 88K reviews and the Android rating is 4.9 stars from 800K reviews.
