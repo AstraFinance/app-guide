@@ -8,7 +8,7 @@ description: Banking designed with your goals in mind.
 
 Qapital is a mobile application with savings and investing at its core.  Use it to establish a new account, which comes with its own connected debit card, setup savings targets and then fund those targeted goals with triggers and actions.  Through clever notifications and rules you can keep track of your spending on various categories and effortlessly build up an investment portfolio, small amounts at a time.
 
-## TLDR
+## In Brief
 
 * Savings app which uses rules to fund goals.
 * Included associated debit card and investment account
