@@ -13,13 +13,18 @@ The You Need a Budget \([**YNAB**](https://www.youneedabudget.com/)\) app is bui
 3. Roll with the punches
 4. Age your money
 
-In essence, this means creating a budget that helps you spend money you've earned at least a month ago so you don't have to live on the financial edge. No more timing your bills with paychecks, wondering how much money is in your account, or running out of cash before the next payday.
+In essence, this means creating a budget that helps you spend money you've earned at least a month ago so you don't have to live on the financial edge. No more timing your bills with paychecks, wondering how much money is in your account, or running out of cash before the next payday. By assigning a specific task for all inbound funds, you can allocate to savings in the same way that you allocate funds for rent, feeling confident that you will be able to support both with the funds that you have.
+
+The goal of the application, to get everyone to have a budget is a noble one, but this application requires work - active monitoring of your expenses and budgets. To utilize this application properly, you should set specific time aside in your day or week or ensure that items in the application are up to date.
+
+Like many other applications, YNAB is on a specific mission to get you a budget so that you can organize and better manage your personal finances, but to be sure, you will need a few other applications to fill out all of the functions you might need in day to day financial management.
 
 ## In Brief
 
-* Item
-* Item
-* Item
+* Look at your finances on a monthly basis, but line item, assign a value and then track against those values.
+* Will force you to look at where your money is going but might not help you do anything about it.
+* Requires maintenance to stay up to date with your finances (not purely automated)
+* Has a small $7 per month / $84 per year charge for the service
 
 {% hint style="success" %}
 **Pro Tip:** description
@@ -54,5 +59,4 @@ This is a fairly manual app when it comes to tracking expenses and balancing you
 
 ## App Ratings and Details
 
-Text
-
+YNAB has a 4.8 star rating and 8.8K reviews on iOS and 4 stars from 4K reviews on Android.
